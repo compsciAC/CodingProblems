@@ -1,5 +1,4 @@
 number = 2763
-
 testValue = 2
 
 while testValue < number:
