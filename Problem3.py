@@ -7,5 +7,4 @@ while testValue < number:
 		number /= testValue
 		testValue -= 1
 	testValue += 1
-
 print(number)
