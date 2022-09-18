@@ -1,4 +1,4 @@
-number = 2763
+number = 600851475143
 testValue = 2
 
 while testValue < number:
@@ -6,4 +6,4 @@ while testValue < number:
 		number /= testValue
 		testValue -= 1
 	testValue += 1
-print(number)
+return number
