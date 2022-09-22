@@ -16,3 +16,6 @@ Problem 4<br />
 A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
 Find the largest palindrome made from the product of two 3-digit numbers. <br /><br />
 Problem 5<br />
+2520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder.
+<br />
+What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20?
