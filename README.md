@@ -23,9 +23,7 @@ Problem 5<br />
 What is the smallest positive number that is evenly divisible by all of the numbers from 1 to 20? <br /><br />
 Problem 6<br />
 The sum of the squares of the first ten natural numbers is,<br />
-<p align="center">
 
-</p>
 The square of the sum of the first ten natural numbers is,
 
 Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is .
