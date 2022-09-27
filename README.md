@@ -34,4 +34,8 @@ Hence the difference between the sum of the squares of the first ten natural num
 <p align="center">
 3025 - 385 = 2640
 </p>
-Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum. <br /><br />
+Problem 7<br />
+By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.
+<br />
+What is the 10 001st prime number?
